@@ -24,5 +24,5 @@
 
 ## Jupyter Notebook 
 
-- [winnie2qui0/-winnie-.github.io](https://github.com/winnie2qui0/-winnie-.github.io) - 情緒分析pre-training 模型。
+- [winnie2qui0/-winnie-.github.io](https://github.com/winnie2qui0/-winnie-.github.io) - 情緒分析fine-tuning模型。
 
