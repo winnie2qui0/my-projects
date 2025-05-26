@@ -11,18 +11,18 @@
 
 ## C++ 
 
-- [dnny60/wellNest](https://github.com/dnny60/wellNest) - 
+- [dnny60/wellNest](https://github.com/dnny60/wellNest) - wellnest心理健康app後端，主要以java,c++撰寫。
 
 ## Java 
 
-- [winnie2qui0/NCCUTinder](https://github.com/winnie2qui0/NCCUTinder) - 
+- [winnie2qui0/NCCUTinder](https://github.com/winnie2qui0/NCCUTinder) - 第一個java專案，後端java 前端使用java swing當使用者介面。
 
 ## JavaScript 
 
-- [winnie2qui0/Wellnest_frontend](https://github.com/winnie2qui0/Wellnest_frontend) - 歡迎來到wellnest 前端世界yayaya
-- [winnie2qui0/Carryu](https://github.com/winnie2qui0/Carryu) - 
+- [winnie2qui0/Wellnest_frontend](https://github.com/winnie2qui0/Wellnest_frontend) - wellnest心理健康app前端，使用react native框架完成。
+- [winnie2qui0/Carryu](https://github.com/winnie2qui0/Carryu) - 政大共乘網站，主要使用react.js撰寫。
 
 ## Jupyter Notebook 
 
-- [winnie2qui0/-winnie-.github.io](https://github.com/winnie2qui0/-winnie-.github.io) - 
+- [winnie2qui0/-winnie-.github.io](https://github.com/winnie2qui0/-winnie-.github.io) - 情緒分析pre-training 模型。
 
