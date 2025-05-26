@@ -1,5 +1,5 @@
 # my-projects
-目前參與過的專案捷徑
+您好～，我是黃郁茜就讀政治大學四年級，以下是目前參與過的專案捷徑：
 <!--lint disable awesome-contributing awesome-license awesome-list-item match-punctuation no-repeat-punctuation no-undefined-references awesome-spell-check-->
 
 ## Contents
