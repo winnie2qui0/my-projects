@@ -8,6 +8,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Figna](#Figma)
 
 ## C++ 
 
@@ -25,4 +26,11 @@
 ## Jupyter Notebook 
 
 - [winnie2qui0/-winnie-.github.io](https://github.com/winnie2qui0/-winnie-.github.io) - 情緒分析fine-tuning模型。
+
+## Figma
+
+- [Wellnest figma](https://www.figma.com/proto/O04fKByloFEPmIHsLNS5m2/Wellnest-UI?node-id=0-1&t=RT9Y5I9RSQOfNygh-1) 。
+- - [阿柔洋產業道路地圖 figma](https://drive.google.com/drive/folders/18e4Sl5Z-SZTsGXUM5HvtkcsH6uYVIzFV?usp=sharing) 。
+
+
 
