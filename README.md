@@ -16,7 +16,7 @@
 
 ## Java 
 
-- [winnie2qui0/NCCUTinder](https://github.com/winnie2qui0/NCCUTinder) - 第一個java專案，後端java 前端使用java swing當使用者介面。
+- [winnie2qui0/NCCUTinder](https://github.com/winnie2qui0/NCCUTinder) - 第一個java專案，後端:java 前端:java swing當使用者介面。
 
 ## JavaScript 
 
