@@ -1,6 +1,6 @@
-# Yu-Cian Huang — Project Portfolio
+# Yu-Cian Huang Project Portfolio
 
-Hi, I'm Yu-Cian (Winnie) Huang — a graduate student in Management of Digital Technology at TUM, with a background in Management Information Systems (National Chengchi University). Below is a selection of the projects I've worked on, spanning full-stack development, AI applications, and UI/UX design.
+Hi, I'm Yu-Cian (Winnie) Huang, a graduate student in Management of Digital Technology at TUM, with a background in Management Information Systems (National Chengchi University). Below is a selection of the projects I've worked on, spanning full-stack development, AI applications, and UI/UX design.
 
 ## Contents
 
