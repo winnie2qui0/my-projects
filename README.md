@@ -1,36 +1,37 @@
-# my-projects
-您好～我是黃郁茜就讀政治大學四年級，以下是目前參與過的專案捷徑：
-<!--lint disable awesome-contributing awesome-license awesome-list-item match-punctuation no-repeat-punctuation no-undefined-references awesome-spell-check-->
+# Yu-Cian Huang — Project Portfolio
+
+Hi, I'm Yu-Cian (Winnie) Huang — a graduate student in Management of Digital Technology at TUM, with a background in Management Information Systems (National Chengchi University). Below is a selection of the projects I've worked on, spanning full-stack development, AI applications, and UI/UX design.
 
 ## Contents
 
-- [C++](#c++)
-- [Java](#java)
-- [JavaScript](#javascript)
-- [Jupyter Notebook](#jupyter-notebook)
-- [Figna](#Figma)
+- [AI & Full-Stack Projects](#ai--full-stack-projects)
+- [Web & Desktop Applications](#web--desktop-applications)
+- [Data / Machine Learning](#data--machine-learning)
+- [Design](#design)
 
-## C++ 
+## AI & Full-Stack Projects
 
-- [dnny60/wellNest](https://github.com/dnny60/wellNest) - wellnest心理健康app後端，主要以java,c++撰寫。
+- **SorxAI** — An AI-assisted procurement agent built for Fuyao Europe's purchasing team, automating supplier sourcing and comparison. Full-stack build with a React/Vite frontend and an Express 5 / PostgreSQL (Drizzle ORM) backend, plus a deterministic AI scoring engine for supplier recommendations.
+  [Live demo →](https://gen-ai--tinalliu.replit.app)
+  *(Source code is a private university team repository containing a partner company's business data.)*
 
-## Java 
+- **Wellnest** — An AI-powered mental health app that detects user emotions via a fine-tuned sentiment model and recommends personalized tasks.
+  [Frontend (React Native) →](https://github.com/winnie2qui0/Wellnest_frontend) · [Backend (Java/C++) →](https://github.com/dnny60/wellNest) · [Sentiment analysis model (fine-tuning notebook) →](https://github.com/winnie2qui0/-winnie-.github.io)
 
-- [winnie2qui0/NCCUTinder](https://github.com/winnie2qui0/NCCUTinder) - 第一個java專案，後端:java 前端:java swing當使用者介面。
+## Web & Desktop Applications
 
-## JavaScript 
+- **NCCU Tinder** — A JavaFX desktop social app for NCCU students to browse and join themed campus activities, built with an MVC architecture and FXML-based UI.
+  [Repo →](https://github.com/winnie2qui0/NCCUTinder)
 
-- [winnie2qui0/Wellnest_frontend](https://github.com/winnie2qui0/Wellnest_frontend) - wellnest心理健康app前端，使用react native框架完成。
-- [winnie2qui0/Carryu](https://github.com/winnie2qui0/Carryu) - 政大共乘網站，主要使用react.js撰寫。
+- **Carryu** — A carpool-matching website for NCCU students, built with React.js.
+  [Repo →](https://github.com/winnie2qui0/Carryu)
 
-## Jupyter Notebook 
+## Data / Machine Learning
 
-- [winnie2qui0/-winnie-.github.io](https://github.com/winnie2qui0/-winnie-.github.io) - 情緒分析fine-tuning模型。
+- **Sentiment Analysis (BERT fine-tuning)** — A fine-tuned BERT model for emotion detection, used as the sentiment-analysis engine behind the Wellnest app.
+  [Notebook →](https://github.com/winnie2qui0/-winnie-.github.io)
 
-## Figma
+## Design
 
-- [Wellnest figma](https://www.figma.com/design/O04fKByloFEPmIHsLNS5m2/Wellnest-UI?node-id=0-1&t=xWR1l5A6NPlUyAuL-1)。
-- [阿柔洋產業道路地圖 figma](https://drive.google.com/drive/folders/18e4Sl5Z-SZTsGXUM5HvtkcsH6uYVIzFV?usp=sharing) 。
-
-
-
+- [Wellnest UI (Figma)](https://www.figma.com/design/O04fKByloFEPmIHsLNS5m2/Wellnest-UI?node-id=0-1&t=xWR1l5A6NPlUyAuL-1)
+- [Community Road-Mapping Project (Figma)](https://drive.google.com/drive/folders/18e4Sl5Z-SZTsGXUM5HvtkcsH6uYVIzFV?usp=sharing)
