@@ -12,8 +12,7 @@ Hi, I'm Yu-Cian (Winnie) Huang, a graduate student in Management of Digital Tech
 ## AI & Full-Stack Projects
 
 - **SorxAI** — An AI-assisted procurement agent built for Fuyao Europe's purchasing team, automating supplier sourcing and comparison. Full-stack build with a React/Vite frontend and an Express 5 / PostgreSQL (Drizzle ORM) backend, plus a deterministic AI scoring engine for supplier recommendations.
-  [Live demo →](https://gen-ai--tinalliu.replit.app)
-  *(Source code is a private university team repository containing a partner company's business data.)*
+  [Demo Video→](https://www.youtube.com/watch?v=lR5R0mRkN9s))
 
 - **Wellnest** — An AI-powered mental health app that detects user emotions via a fine-tuned sentiment model and recommends personalized tasks.
   [Frontend (React Native) →](https://github.com/winnie2qui0/Wellnest_frontend) · [Backend (Java/C++) →](https://github.com/dnny60/wellNest) · [Sentiment analysis model (fine-tuning notebook) →](https://github.com/winnie2qui0/-winnie-.github.io)
