@@ -33,4 +33,4 @@ Hi, I'm Yu-Cian (Winnie) Huang, a graduate student in Management of Digital Tech
 ## Design
 
 - [Wellnest UI (Figma)](https://www.figma.com/design/O04fKByloFEPmIHsLNS5m2/Wellnest-UI?node-id=0-1&t=xWR1l5A6NPlUyAuL-1)
-- [Community Road-Mapping Project (Figma)](https://drive.google.com/drive/folders/18e4Sl5Z-SZTsGXUM5HvtkcsH6uYVIzFV?usp=sharing)
+- [Community Road-Mapping Project (Figma)](https://www.figma.com/design/qfyxcvfSITYaMPcBrddA6x/Group10-Checkpoint-Wireframe_2025-UI-UX?node-id=0-1&t=7j1Ggcp3z2PCp6PO-1)
